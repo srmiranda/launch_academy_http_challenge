@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Messages</title>
+  <link rel="stylesheet" type="text/css" href="/pure.css">
+  <link rel="stylesheet" type="text/css" href="/main.css">
+</head>
+
+<body>
+  <div class="header">
+  <div class="pure-g">
+    <div class="pure-u-1-8"></div>
+
+    <div class="pure-u-3-4">
+      <div class="home-menu pure-menu pure-menu-horizontal">
+        <a class="pure-menu-heading" href="/">Messages</a>
+
+        <ul class="pure-menu-list">
+          <li class="pure-menu-item"><a href="/messages" class="pure-menu-link">View Messages</a></li>
+          <li class="pure-menu-item"><a href="/messages/new" class="pure-menu-link">New Message</a></li>
+          <li class="pure-menu-item"></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="pure-u-1-8"></div>
+  </div>
+</div>
+
+
+  <div class="pure-g">
+    <div class="pure-u-1-8"></div>
+
+    <div class="pure-u-3-4">
+      <h1>Messages</h1>
+
+<div class="pure-g">
+  <div class="pure-u-1-4 created_at">
+    <strong>Created At</strong>
+  </div>
+
+  <div class="pure-u-1-2 content">
+    <strong>Content</strong>
+  </div>
+</div>
+
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:52:04
+    </div>
+    <div class="pure-u-1-2 content">
+      fork
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:51:43
+    </div>
+    <div class="pure-u-1-2 content">
+      spoon
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:50:40
+    </div>
+    <div class="pure-u-1-2 content">
+      You miss every shot you dont take
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:50:24
+    </div>
+    <div class="pure-u-1-2 content">
+      trying this againnnn!!!
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:50:24
+    </div>
+    <div class="pure-u-1-2 content">
+      philip is that you?
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:49:49
+    </div>
+    <div class="pure-u-1-2 content">
+      holy crap you guys
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:49:48
+    </div>
+    <div class="pure-u-1-2 content">
+      hi my name is bob
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:49:48
+    </div>
+    <div class="pure-u-1-2 content">
+      trying this againnnn!!!
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:49:27
+    </div>
+    <div class="pure-u-1-2 content">
+      You miss every shot you dont take
+    </div>
+  </div>
+  <div class="pure-g">
+    <div class="pure-u-1-4 created_at">
+      2015-08-11 16:49:21
+    </div>
+    <div class="pure-u-1-2 content">
+      HELLO
+    </div>
+  </div>
+
+    </div>
+
+    <div class="pure-u-1-8"></div>
+  </div>
+</body>
+</html>
